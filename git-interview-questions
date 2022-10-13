@@ -1,0 +1,163 @@
+
+Git & GitHub Interview Questions
+What is git?
+Ans)
+What is the difference between git and GitHub?
+Ans)
+What is Branch?
+Ans)
+What is tag?
+Ans)
+What is the difference between Branch and Tag?
+Ans)
+When we will create the branch and when we will the create tag?
+Ans)
+What is “git add” command will do?
+Ans)
+What is the command to revert the code from staging area to working area?
+Ans)
+What is the git revert command?
+Ans)
+What is the difference between fetch and pull in Git?
+Ans)
+How to see how many branches are currently available in git repo?
+Ans)
+What is the command to create the branch?
+Ans)
+How to switch from branch to another branch?
+Ans)
+How to create branch and how to switch to that branch in one command?
+Ans)
+What is the command to delete the branch in local repo?
+Ans)
+What is the command to delete branch in remote repo?
+Ans)
+What is the branching strategy you are following?
+Ans)
+What is git stash command?
+Ans)
+What is git cherry-pick ?
+Ans)
+What does git rebase?
+Ans)
+How to change git commit message after push (given that no one pulled from remote)?
+Ans)
+How to rename the branch name?
+Ans)
+What is the command to get the code from remote git repo?
+Ans)
+How to check the particular branch from github?
+Ans)
+What is the command to see all git messages in local repo?
+Ans)
+How to create the repository in git?
+Ans)
+
+
+* What is the difference between git merge and git rebase?
+Ans)
+What is the difference between git reset and git revert?
+Ans)
+What is merge conflicts? Have you resolved the merge conflicts?
+Ans)
+How to see how many files are committed in one particular commit id?
+Ans)
+What is git hooks? Can you name some git hooks?
+Ans)
+What is .gitignore file?
+Ans)
+What is git bare and git non bare repository, use cases?
+Ans)
+What is the git command to create the achieve files?
+Ans)
+What is git prune, Mirroring and git repack commands?
+Ans)
+
+Difference between Git and SVN?
+Ans)
+What are the two types of git authentication?
+Ans)
+What are the branches in Git and its purpose?
+Ans)
+What is Pull requests?
+Ans)
+How to install git in Linux & Windows?
+Ans)
+What is git clone command used for?
+Ans)
+What is git config command used for?
+Ans)
+Git config data is stored in what location?
+Ans)
+Git config global and local files?
+Ans)
+Content of git config file?
+Ans)
+git add command’s purpose?
+Ans)
+
+What is the git commit command purpose?
+Ans)
+How to sync local git repo data with github?
+Ans)
+How to change branches in local git repo?
+Ans)
+What is the difference between ‘git remote’ and ‘git clone’?
+Ans)
+git status?
+Ans)
+What is the function of ‘git rm’?
+Ans)
+What is the function of ‘git checkout’ in git?
+Ans)
+What is the use of ‘git log’?
+Ans)
+Explain what is commit message?
+Ans)
+How to setup github ssh authentication?
+Ans)
+What is git webhooks?
+Ans)
+Tell me the branching strategies you followed for your project?
+Ans)
+What is git rebase?
+Ans)
+What is git stash?
+Ans)
+* What is the difference between git pull and git fetch?
+Ans)
+Difference between git and svn?
+Ans)
+What is the difference between "git checkout " and "svn checkout " commands?
+Ans)
+
+How do you check after git merge …where merging is correctly or not?
+Ans)
+
+How to create branch and delete a branch?
+Ans)
+Do you get any conflicts while merging? If yes, How can u resolve conflicts?
+Ans)
+How can u implement authentication and authorization in git?
+Ans)
+What is the difference between git rebase and git merge?
+Ans)
+How to merge the code?
+Ans)
+Pull request in git hub - ---git pull
+Ans)
+Forking a repository in git hub?
+Ans)
+What is forking in git repositories?
+Ans)
+Explain about soft and hard reset and their difference?
+Ans)
+What kind of branching and merging you worked on GIT.
+Ans)
+What is tagging in GIT and what is the diff between feature branching and tagging?
+Ans)
+how to merge the code
+What are the git commands you use?
+
+What is GIT Stash
+Git Merge and GIT Pull, Diff between Git and SVN?
