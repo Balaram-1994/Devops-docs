@@ -41,22 +41,32 @@ Ans)git branch -d (branch name) and git push
 
 What is the branching strategy you are following?
 Ans)
+
 What is git stash command?
-Ans)
+Ans) It takes your uncommited changes(both staged and unstaged), saves them away for later use, and then reverts them from your working copy.
+
 What is git cherry-pick ?
 Ans)
+
 What does git rebase?
-Ans)
+Ans) Rebasing is the process of moving or combining a sequence of commits to a new base commit.
+     Rebasing is most useful and easily visualized in the context of feature branching workflow.
+     
 How to change git commit message after push (given that no one pulled from remote)?
 Ans)
+
 How to rename the branch name?
 Ans)
+
 What is the command to get the code from remote git repo?
-Ans)
+Ans) git fetch
+
 How to check the particular branch from github?
-Ans)
+Ans) 
+
 What is the command to see all git messages in local repo?
-Ans)
+Ans) git log
+
 How to create the repository in git?
 Ans)
 
@@ -66,61 +76,87 @@ Ans)Git merge is a command that allows you to merge branches from git.
     Git rebase is a command that allows developers to integrate the changes from one barnch to another.
 
 What is the difference between git reset and git revert?
-Ans) 
+Ans) Git revert should be used to undo changes on a public branch.
+     git reset should be reserved for undoing changes on a private branch.
+     
 What is merge conflicts? Have you resolved the merge conflicts?
 Ans)
+
 How to see how many files are committed in one particular commit id?
 Ans)
+
 What is git hooks? Can you name some git hooks?
-Ans)
+Ans) These are scripts that run automatically every time a particular event occurs in a git repository.
+     some git hooks : pre-commit, prepare-commit-msg, commit-msg, post-commit, post-checkout, pre-rebase.
+     
 What is .gitignore file?
-Ans)
+Ans) A gitignore file specifies intentionally untracked files that git should ignore.
+
 What is git bare and git non bare repository, use cases?
 Ans)
+
 What is the git command to create the achieve files?
-Ans)
+Ans) git archive
+
 What is git prune, Mirroring and git repack commands?
 Ans)
 
 Difference between Git and SVN?
-Ans)
+Ans) Git is a distributed version control system.
+     SVN is a centralized version control system.
+
 What are the two types of git authentication?
-Ans)
+Ans) SSH and HTTPS
+
 What are the branches in Git and its purpose?
 Ans)
+
 What is Pull requests?
-Ans)
+Ans) Pull requests let you tell others about changes you have pushed to a branch in a repository on Github.
+
 How to install git in Linux & Windows?
 Ans)
+
 What is git clone command used for?
 Ans)
+
 What is git config command used for?
 Ans)
+
 Git config data is stored in what location?
 Ans)
+
 Git config global and local files?
 Ans)
+
 Content of git config file?
-Ans)
-git add command’s purpose?
 Ans)
 
 What is the git commit command purpose?
-Ans)
+Ans) It is used to adds the change from staging area to local repo
+
 How to sync local git repo data with github?
 Ans)
+
 How to change branches in local git repo?
 Ans)
+
 What is the difference between ‘git remote’ and ‘git clone’?
-Ans)
+Ans) git remote is used to refer to a remote repository or your central repository.
+     git clone is used to copy or clone a different repository.
+
 git status?
-Ans)
+Ans) The git status command displays the state of the working directory and the staging area.
+
 What is the function of ‘git rm’?
-Ans)
+Ans) Remove tracked files from the git index.
+
 What is the function of ‘git checkout’ in git?
-Ans)
+Ans) Lets you navigate between the branches created by git branch.
+
 What is the use of ‘git log’?
 Ans)
+
 Explain what is commit message?
 Ans)
 How to setup github ssh authentication?
